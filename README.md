@@ -8,7 +8,7 @@ My Name is Gideon Jeremiah Jones but you can call me romantc guy 😂 cause am v
 I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
 
-- :telescope: I’m  a web developer, cyber security analyst, android developers, Business Coach, Love Doctor, Ui/Ux designer, 3D Animator.
+- :telescope: I’m  A Developer 😊.
 
 - :seedling: Exploring Technical Content Writing.
 
