@@ -43,18 +43,9 @@ Social Media Handles are :
     
 </div>
 
-<br>
-
-Lnaguages and Toola 
 
 
-<br>
 
-
-  
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gideonjon&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
