@@ -3,12 +3,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-im Gideon Jeremiah Jones but you call .
-
-I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+im a software Engineer - Android Engineer.
 
 
-- :telescope: I’m  A Developer 😊.
+- 🌱 I’m currently learning Kotlin Jetpack & Flutter
+
+- 
+- 👯 I’m looking to collaborate on Fintech Solutions
+
+
+
 
 
 
@@ -19,7 +23,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
