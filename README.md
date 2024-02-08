@@ -5,7 +5,6 @@
 
 Im a software Engineer - Android Engineer.
 
-
 - 🌱 I’m currently learning Kotlin Jetpack & Flutter
 
 - 👯 I’m looking to collaborate on Startup projects, personal projects, open source, hackathons and intresting stuffs, that fosters my growth and knoweledge
