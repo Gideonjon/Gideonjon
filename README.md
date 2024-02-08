@@ -1,15 +1,15 @@
 <h1>
-  hey there
+  Hey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-im a software Engineer - Android Engineer.
+Im a software Engineer - Android Engineer.
 
 
 - 🌱 I’m currently learning Kotlin Jetpack & Flutter
 
 - 
-- 👯 I’m looking to collaborate on Fintech Solutions
+- 👯 I’m looking to collaborate on Startup projects, personal projects, open source, hackathons and intresting stuffs, that fosters my growth and knoweledge
 
 
 
