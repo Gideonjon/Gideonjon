@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Im a software Engineer - Android Engineer.
+Im a software Engineer - Mobile Engineer.
 
 - 🌱 I’m currently learning =Kotlin Jetpack & Flutter
 
