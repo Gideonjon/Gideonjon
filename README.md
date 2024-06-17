@@ -1,13 +1,7 @@
 <h1>
   Hey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-Im a software Engineer - Mobile Engineer.
-
-- 🌱 I’m currently learning =Kotlin Jetpack & Flutter
-
-- 👯 I’m looking to collaborate on Startup projects, personal projects, open source, hackathons and intresting stuffs, that fosters my growth and knoweledge
+<p>Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.</p>
 
 
 
