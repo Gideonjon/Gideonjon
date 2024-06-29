@@ -1,7 +1,7 @@
 <h1>
   Hey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<p>Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.</p>
+<p>Android Engineer, passionate about building user friendly and scalable applications.</p>
 
 
 
