@@ -1,7 +1,7 @@
 <h1>
   Hey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<p>Android Engineer, passionate about building user friendly and scalable applications.</p>
+<p>I'm an Android Engineer, passionate about building user friendly and scalable applications.</p>
 
 
 
