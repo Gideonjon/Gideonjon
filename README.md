@@ -5,8 +5,6 @@ Mobile app developer :)
 
 <p align="left"> <a href="https://twitter.com/gideonjones_" target="blank"><img src="https://img.shields.io/twitter/follow/gideonjones_?logo=twitter&style=for-the-badge" alt="gideonjones_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [read.cv/gideonjones_](read.cv/gideonjones_)
-
 - 📝 I regularly write articles on [https://gideonjones.hashnode.dev/](https://gideonjones.hashnode.dev/)
 
 - 💬 Ask me about **kotlin and Flutter**
@@ -33,4 +31,7 @@ Mobile app developer :)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gideonjon&" alt="gideonjon" /></p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gideonjon&label=Profile%20views&color=0e75b6&style=flat" alt="gideonjon" />
+
+- 👨‍💻 All of my projects are available at [read.cv/gideonjones_](read.cv/gideonjones_)
+- 👨‍💻 All of my projects are available at [read.cv/gideonjones_](read.cv/gideonjones_)
 --!>
