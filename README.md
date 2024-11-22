@@ -7,7 +7,7 @@ Mobile app developer :)
 
 - 📝 I regularly write articles on [https://gideonjones.hashnode.dev/](https://gideonjones.hashnode.dev/)
 
-- 💬 Ask me about **kotlin and Flutter**
+- 💬 Ask me about **kotlin, Flutter, and Java**
 
 - 📫 How to reach me **gideonjones63@gmail.com**
 
