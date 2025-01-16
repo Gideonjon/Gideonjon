@@ -1,13 +1,10 @@
 
-
-## Godeon Jeremiah Jones
+## Gideon Jeremiah Jones
 
 **`Mobile Engineer`**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gideonjon" alt="gideonjon" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gideonjones_" target="blank"><img src="https://img.shields.io/twitter/follow/gideonjones_?logo=twitter&style=for-the-badge" alt="gideonjones_" /></a> </p>
-
+<br>
 - 📝 I regularly write articles on [https://gideonjones.hashnode.dev/](https://gideonjones.hashnode.dev/)
 
 - 💬 Ask me about **kotlin,  and Java**
