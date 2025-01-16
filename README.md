@@ -4,7 +4,8 @@
 **`Mobile Engineer`**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gideonjon" alt="gideonjon" /></a> </p>
-<br>
+
+
 - 📝 I regularly write articles on [https://gideonjones.hashnode.dev/](https://gideonjones.hashnode.dev/)
 
 - 💬 Ask me about **kotlin,  and Java**
