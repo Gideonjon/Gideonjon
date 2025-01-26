@@ -8,9 +8,9 @@
   
 - Currently Learning Swift
 
-- 📫 How to reach me **gideonjones63@gmail.com**
+- Email Me - **gideonjones63@gmail.com**
 
-- 📄 Hire me - [https://bit.ly/Gideon-Jones-Resume](https://bit.ly/Gideon-Jones-Resume)
+-  Hire me - [https://bit.ly/Gideon-Jones-Resume](https://bit.ly/Gideon-Jones-Resume)
 
 <h3 align="left">Let’s Talk Here:</h3>
 <p align="left">
