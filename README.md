@@ -3,7 +3,7 @@
 
 **`Mobile Engineer`**
 
-<p> Mobile Engineer  bringing forth expertise in design, development of mobile  applications.
+<p> Mobile Engineer  building scalable  mobile  applications.
 </p>
   
 - Currently Learning Swift
