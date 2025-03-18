@@ -10,7 +10,6 @@
 
 - Email Me - **gideonjones63@gmail.com**
 
--  Hire me - [https://bit.ly/Gideon-Jones-Resume](https://bit.ly/Gideon-Jones-Resume)
 
 <h3 align="left">Let’s Talk Here:</h3>
 <p align="left">
@@ -20,6 +19,7 @@
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
+-  Hire me - [https://bit.ly/Gideon-Jones-Resume](https://bit.ly/Gideon-Jones-Resume)
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
