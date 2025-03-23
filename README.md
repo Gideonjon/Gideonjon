@@ -3,11 +3,6 @@
 
 **`Mobile Engineer`**
 
-<p> Mobile Engineer  building scalable  mobile  applications.
-</p>
-  
-- Currently Learning Swift
-
 - Email Me - **gideonjones63@gmail.com**
 
 
