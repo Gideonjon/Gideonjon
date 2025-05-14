@@ -1,34 +1,34 @@
+<h2> Hey there! I'm Gideon Jones. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-## Gideon Jeremiah Jones
+<h3> 👨🏻‍💻 About Me </h3>
 
-**`Mobile Engineer`**
+- 🔭 &nbsp; I’m a clever Mobile Engineer
+- 🤔 &nbsp; Building solutions for mobile using cutting edge technologies.
+- 💼 &nbsp; Building beautiful mobile UIs with XML, Jetpack Compose and Dart.
+- 🌱 &nbsp; Enthusiast in Design and Cloud Ops .
 
-- Email Me - **gideonjones63@gmail.com**
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Dart |  Kotlin 
+- 🌐 &nbsp; Android | flutter  
+- 🛢 &nbsp;  Firebase 
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git
+- 🖥 &nbsp;  Figma
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gideonjon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nsikak's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gideonjon&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
-<h3 align="left">Let’s Talk Here:</h3>
-<p align="left">
-<a href="https://twitter.com/gideonjones_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gideonjones_" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/message/SUDUJO3MREGXL1?autoload=1&app_absent=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="gideonjones" height="30" width="40" /></a>
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/gideonjones_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="mailto:gideonjones63@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-<!--
-<h3 align="left">Languages and Tools:</h3>
--  Hire me - [https://bit.ly/Gideon-Jones-Resume](https://bit.ly/Gideon-Jones-Resume)
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gideonjon&show_icons=true&locale=en&layout=compact" alt="gideonjon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gideonjon&show_icons=true&locale=en" alt="gideonjon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gideonjon&" alt="gideonjon" /></p>
-
---!>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gideonjon&label=Profile%20views&color=0e75b6&style=flat" alt="gideonjon" />
-
-- 👨‍💻 All of my projects are available at [read.cv/gideonjones_](read.cv/gideonjones_)
-- 👨‍💻 All of my projects are available at [read.cv/gideonjones_](read.cv/gideonjones_)
---!>
