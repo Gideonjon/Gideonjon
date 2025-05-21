@@ -5,7 +5,7 @@
 - 🔭 &nbsp; I’m a clever Mobile Engineer
 - 🤔 &nbsp; Building solutions for mobile using cutting edge technologies.
 - 💼 &nbsp; Building beautiful mobile UIs with XML, Jetpack Compose and Dart.
-- 🌱 &nbsp; Enthusiast in Design and Cloud Ops .
+- 🌱 &nbsp;  Design and Blockchain .
 
 
 <h3>🛠 Tech Stack</h3>
@@ -18,7 +18,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gideonjon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nsikak's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gideonjon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gideon Jones Github Stats">
 
 </br>
 
