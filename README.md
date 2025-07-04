@@ -10,15 +10,14 @@ I build sleek, useful mobile apps that help Africans use crypto in real life —
 |-----------------|------------------------------------------------------|------------------------------|
 | [**Raba**](https://github.com/Gideonjon/gideonjon-portfolio/blob/main/raba.md)             | Pay bills with USDC on Base                      | Kotlin, Base, Firebase       |
 | [**Etibe**](https://github.com/Gideonjon/gideonjon-portfolio/blob/main/etibe.md)           | Onchain Ajo (group savings)                      | Kotlin, Umi, WalletConnect   |
-| [**Swap2Naira**](https://github.com/Gideonjon/gideonjon-portfolio/blob/main/swap2naira.md) | Swap gift cards + pay bills                      | Kotlin, Firebase, REST       |
+| [**Swap2Naira**](https://github.com/Gideonjon/gideonjon-portfolio/blob/main/swap2naira.md) | Swap gift cards + pay bills                      | Flutter, Firebase, REST       |
 | [**Cafx.io**](https://github.com/Gideonjon/gideonjon-portfolio/blob/main/cafx.md)          | Trade crypto (spot, futures, arbitrage)          | Kotlin, WebSockets, Firebase |
-| [**Ajo App**](https://github.com/Gideonjon/gideonjon-portfolio/blob/main/ajo.md)           | Rotational savings with crypto                   | Kotlin, Firebase             |
 
 ---
 
 ## 🛠 Skills
 
-- Kotlin / Android XML / MVVM / ViewBinding
+- Kotlin / Android XML / MVVM / ViewBinding / Flutter
 - WalletConnect / Web3 / Firebase / REST APIs
 - Glide, Retrofit, Jetpack Navigation
 - Blockchain + DeFi UX for African users
