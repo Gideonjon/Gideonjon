@@ -36,6 +36,6 @@ I build sleek, useful mobile apps that help Africans use crypto in real life —
 
 ## 📩 Let’s Connect
 
-- Twitter: [@yourhandle](https://twitter.com/codewithananam)
+- Twitter: [@codewithananam](https://twitter.com/codewithananam)
 - Email: [gideonjones63@gmail.com]
 - GitHub: [Gideonjon](https://github.com/Gideonjon)
