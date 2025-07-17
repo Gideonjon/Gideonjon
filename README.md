@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Gideon Jones — Mobile Engineer & Onchain Builder 🇳🇬
+# 👋 Hey, I’m Gideon Jones — Mobile Engineer
 
 I build sleek, useful mobile apps that help Africans use crypto in real life — from bill payments to group savings and swaps.
 
