@@ -17,14 +17,13 @@ I build sleek, useful mobile apps that help people and organizations.
 
 ---
 
-## 🛠 Skills
+## 🔧 Skills & Technologies
 
-- Kotlin / Android XML / MVVM / ViewBinding / Flutter
-- WalletConnect / Web3 / Firebase / REST APIs
-- Glide, Retrofit, Jetpack Navigation
-- Blockchain + DeFi UX for African users
+**Mobile App:**  
+`Kotlin` · `Kotlin` · `Swift` 
 
----
+**Tools:**  
+`CI/CD` · `Docker` (familiar) · `Postman` · `GitHub` · `AWS` (familiar) · `Firebase`
 
 ## 💼 Open to:
 
