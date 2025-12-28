@@ -1,6 +1,9 @@
-# 👋 Hey, I’m Gideon Jones — Mobile Engineer
+#  I’m Gideon Jones 
 
-I build sleek, useful mobile apps that help people and organizations.
+
+Mobile-first Engineer → DevEx / Ecosystem Builder
+
+
 
 ---
 
