@@ -23,7 +23,7 @@ Mobile-first Engineer → DevEx / Ecosystem Builder
 ## 🔧 Skills & Technologies
 
 **Mobile App:**  
-`Kotlin` · `Kotlin` · `Swift` 
+`Kotlin` · `Flutter` · `Swift` 
 
 **Tools:**  
 `CI/CD` · `Docker` (familiar) · `Postman` · `GitHub` · `AWS` (familiar) · `Firebase`
