@@ -4,7 +4,7 @@
 Mobile-first Engineer → DevEx / Ecosystem Builder
 
 
-## 🔧 Skills & Technologies
+## Skills & Technologies
 
 **Mobile App:**  
 `Kotlin` · `Flutter` · `Swift` 
