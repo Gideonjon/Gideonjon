@@ -10,7 +10,7 @@ Mobile-first Engineer → DevEx / Ecosystem Builder
 `Kotlin` · `Flutter` · `Swift` 
 
 
-## 💼 Open to:
+## Open to:
 
 - Freelance & contract gigs
 - Building MVPs for startups
@@ -18,7 +18,7 @@ Mobile-first Engineer → DevEx / Ecosystem Builder
 
 ---
 
-## 📩 Let’s Connect
+##  Let’s Connect
 
 - Twitter: [@codewithananam](https://twitter.com/codewithananam)
 - Email: [gideonjones63@gmail.com]
