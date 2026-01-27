@@ -1,8 +1,15 @@
-#  Gideon Jones 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Gideonjon.Gideonjon" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gideon+Jones!;" />
+</h1>
 
-Mobile-first Engineer 
+<h3 align="center">Mobile Developer [ Android & IOS] </h3>
 
+<p align="center">
+With over 5 years of professional experience, I craft high-performance web and mobile solutions using modern technologies.  
+I build **scalable applications** that combine clean architecture, and engaging UI/UX.
+</p>
 
 ## Skills & Technologies
 
