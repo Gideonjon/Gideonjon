@@ -1,4 +1,4 @@
-#  I’m Gideon Jones 
+#  Gideon Jones 
 
 
 Mobile-first Engineer 
@@ -7,7 +7,7 @@ Mobile-first Engineer
 ## Skills & Technologies
 
 **Mobile App:**  
-`Kotlin` · `Flutter` · `Swift` 
+`Kotlin` · `Flutter` · `Swift` . `Dart` 
 
 
 ## Open to:
