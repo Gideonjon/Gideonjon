@@ -16,8 +16,6 @@ Mobile-first Engineer
 - Building MVPs for startups
 - Grants, partnerships & collabs
 
----
-
 ##  Let’s Connect
 
 <p align="center">
