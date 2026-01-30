@@ -16,13 +16,6 @@ I build **scalable applications** that combine clean architecture, and engaging 
 **Mobile App:**  
 `Kotlin` · `Flutter` · `Swift` . `Dart` 
 
-
-## Open to:
-
-- Freelance & contract gigs
-- Building MVPs for startups
-- Grants, partnerships & collabs
-
 ##  Let’s Connect
 
 <p align="center">
