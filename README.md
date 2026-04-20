@@ -4,10 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Gideon+Jones;Mobile+Engineer" />
 </h1>
 
-<h3 align="center">Mobile Engineer — Android • iOS</h3>
+<h3 align="center">Mobile Engineer { Android & iOS }</h3>
 
 <p align="center">
-  Mobile engineer with <strong>5+ years of professional experience</strong> building production-grade Android and iOS applications.
+  Mobile engineer with over <strong>5+ years of professional experience</strong> building production-grade Android and iOS applications.
   <br/>
   Specialized in writing clean, scalable code, shipping reliable MVPs, and collaborating with product and backend teams to deliver real business value.
 </p>
