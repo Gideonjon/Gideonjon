@@ -1,0 +1,9 @@
+[
+  {"name": "Shippor Labs", "url": "https://www.shipporlabs.space/", "desc": "My product studio: we find real problems and ship software for them across mobile, web, Web3 and AI."},
+  {"name": "Rehearse", "url": "https://userehearse.xyz/", "desc": "Demo-first memecoin trading: practise on live prices with demo funds, then trade NEAR for real."},
+  {"name": "Callit", "url": "https://callit.my/", "desc": "Prediction markets for any claim, funded from NEAR, Base or Ethereum, with an AI summary of the crowd."},
+  {"name": "Kontena", "url": "https://usekontena.web.app/", "desc": "Group buying + trade escrow for importers in Nigeria and Ghana. Funds release only after inspection."},
+  {"name": "Purpose Money", "url": "https://purposemoney.vercel.app/", "desc": "Family remittance pot for food, rent and school fees, with an AI guardian checking every payment."},
+  {"name": "Oja POS", "url": "https://ojapos.web.app/", "desc": "Turns a phone into a till for Lightning, card, transfer and cash, plus airtime, data and power."},
+  {"name": "Alert Ledger", "url": "https://alert-ledger.appwrite.network/", "desc": "Turns Nigerian bank transaction alerts into a clear, readable personal finance record."}
+]
