@@ -1,4 +1,4 @@
-<a href="https://gideonjones.xyz"><img src="assets/header.svg" width="100%" alt="Gideon Jones — Mobile Engineer, Android & iOS. 5+ years shipping production fintech and Web3 apps. Open to full-time, contract and freelance roles." /></a>
+<a href="https://www.gideonjones.cv"><img src="assets/header.svg" width="100%" alt="Gideon Jones — Mobile Engineer, Android & iOS. 5+ years shipping production fintech and Web3 apps. Open to full-time, contract and freelance roles." /></a>
 
 <img src="assets/contributions.svg" width="100%" alt="Contribution graph" />
 
@@ -71,6 +71,6 @@ I'm a mobile engineer with **5+ years** of building production Android and iOS a
 ### 📫 Contact
 
 <a href="mailto:gideonjones63@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://gideonjones.xyz"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://x.com/codewithananam"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.gideonjones.cv"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://x.com/gideonjones_"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://wa.me/2348052187724"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
