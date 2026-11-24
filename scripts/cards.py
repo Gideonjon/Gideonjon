@@ -19,26 +19,44 @@ def slug(name):
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
+TO_PNG = """async ([b64, mime]) => {
+    const blob = await (await fetch(`data:${mime};base64,${b64}`)).blob();
+    const url = URL.createObjectURL(blob);
+    const img = new Image();
+    await new Promise((ok, bad) => { img.onload = ok; img.onerror = bad; img.src = url; });
+    const c = document.createElement('canvas'); c.width = c.height = 64;
+    c.getContext('2d').drawImage(img, 0, 0, 64, 64);
+    return c.toDataURL('image/png').split(',')[1];
+}"""
+
+
 def grab(page, url):
     page.goto(url, wait_until="networkidle", timeout=60000)
     page.wait_for_timeout(3000)  # let intro animations settle
+    if page.evaluate("() => !!document.querySelector('flt-glass-pane, flutter-view, flt-scene-host')"):
+        page.wait_for_timeout(9000)  # Flutter web apps keep painting after network idle
     shot = page.screenshot(type="jpeg", quality=72)
     icon_href = page.evaluate("""() => {
         const l = [...document.querySelectorAll('link[rel~="icon"], link[rel="apple-touch-icon"]')];
-        const best = l.find(x => /svg|png/.test(x.type || x.href)) || l[0];
+        const best = l.find(x => /png|svg/.test(x.type || x.href)) || l[0];
         return best ? best.href : '/favicon.ico';
     }""")
-    icon, mime = None, "image/png"
-    for href in [urljoin(url, icon_href), f"https://www.google.com/s2/favicons?domain={urlparse(url).netloc}&sz=64"]:
+    candidates = [urljoin(url, icon_href), urljoin(url, "/favicon.ico"),
+                  f"https://www.google.com/s2/favicons?domain={urlparse(url).netloc}&sz=64"]
+    for href in candidates:
         try:
             r = page.request.get(href, timeout=15000)
-            if r.ok and len(r.body()) > 50:
-                icon = r.body()
-                mime = r.headers.get("content-type", "image/png").split(";")[0]
-                break
+            if not r.ok or len(r.body()) < 50:
+                continue
+            mime = r.headers.get("content-type", "image/png").split(";")[0]
+            if href.endswith(".svg"):
+                mime = "image/svg+xml"
+            png = page.evaluate(TO_PNG, [base64.b64encode(r.body()).decode(), mime])
+            if png:
+                return shot, base64.b64decode(png), "image/png"
         except Exception:
             pass
-    return shot, icon, mime
+    return shot, None, "image/png"
 
 
 def card(site, shot, icon, mime):
