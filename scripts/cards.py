@@ -33,8 +33,12 @@ TO_PNG = """async ([b64, mime]) => {
 def grab(page, url):
     page.goto(url, wait_until="networkidle", timeout=60000)
     page.wait_for_timeout(3000)  # let intro animations settle
-    if page.evaluate("() => !!document.querySelector('flt-glass-pane, flutter-view, flt-scene-host')"):
-        page.wait_for_timeout(9000)  # Flutter web apps keep painting after network idle
+    if page.evaluate("() => !!(window._flutter || document.querySelector('script[src*=flutter]'))"):
+        try:  # Flutter web: wait for the app view to replace the splash, then let it paint
+            page.wait_for_selector("flutter-view, flt-glass-pane", state="attached", timeout=30000)
+        except Exception:
+            pass
+        page.wait_for_timeout(6000)
     shot = page.screenshot(type="jpeg", quality=72)
     icon_href = page.evaluate("""() => {
         const l = [...document.querySelectorAll('link[rel~="icon"], link[rel="apple-touch-icon"]')];
@@ -110,7 +114,9 @@ def main():
     only = sys.argv[1:]
     with sync_playwright() as p:
         kw = {"executable_path": os.environ["CHROME_PATH"]} if os.environ.get("CHROME_PATH") else {}
-        browser = p.chromium.launch(**kw)
+        # software WebGL so canvas-rendered apps (Flutter) draw on GPU-less CI machines
+        browser = p.chromium.launch(args=["--use-angle=swiftshader", "--enable-unsafe-swiftshader",
+                                          "--ignore-gpu-blocklist"], **kw)
         page = browser.new_page(viewport={"width": 1280, "height": 800}, color_scheme="dark")
         for site in SITES:
             if only and slug(site["name"]) not in only:
